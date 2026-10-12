@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1314-matrix-block-sum](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
