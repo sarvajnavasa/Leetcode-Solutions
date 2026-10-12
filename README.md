@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1314-matrix-block-sum](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
+| [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Segment Tree
 |  |
@@ -132,8 +134,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
+| [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
