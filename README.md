@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Segment Tree
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Two Pointers
 |  |
 | ------- |
