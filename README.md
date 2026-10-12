@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0809-expressive-words](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0809-expressive-words) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Segment Tree
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Two Pointers
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
