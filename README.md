@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0809-expressive-words) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1307-verbal-arithmetic-puzzle) |
+| [1396-design-underground-system](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1396-design-underground-system) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [1396-design-underground-system](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Segment Tree
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
+| [1396-design-underground-system](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Two Pointers
 |  |
