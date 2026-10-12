@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0809-expressive-words](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0809-expressive-words) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
