@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1307-verbal-arithmetic-puzzle) |
+| [1314-matrix-block-sum](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
