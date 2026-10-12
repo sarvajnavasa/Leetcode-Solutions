@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1307-verbal-arithmetic-puzzle) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-verbal-arithmetic-puzzle](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1307-verbal-arithmetic-puzzle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
