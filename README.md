@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
+| [0735-asteroid-collision](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0809-expressive-words](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0809-expressive-words) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1603-design-parking-system](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
