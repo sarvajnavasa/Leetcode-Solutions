@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [1396-design-underground-system](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1396-design-underground-system) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
