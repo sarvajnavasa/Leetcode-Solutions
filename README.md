@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0809-expressive-words](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0809-expressive-words) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Array
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0890-find-and-replace-pattern](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 ## Two Pointers
 |  |
