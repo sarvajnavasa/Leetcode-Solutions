@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1600-throne-inheritance](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1600-throne-inheritance) |
 ## Binary Tree
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 ## DP on Trees
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sarvajnavasa/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
